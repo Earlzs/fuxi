@@ -1,5 +1,4 @@
 import { Typography, Row, Col } from 'antd'
-import { PlayCircleOutlined } from '@ant-design/icons'
 import { useState, useEffect } from 'react'
 
 const { Title, Paragraph } = Typography

@@ -1,5 +1,5 @@
 import { Layout, Menu, Button, Space, Drawer } from 'antd'
-import { PhoneOutlined, MenuOutlined, CloseOutlined } from '@ant-design/icons'
+import { PhoneOutlined, MenuOutlined } from '@ant-design/icons'
 import { useState, useEffect } from 'react'
 
 const { Header: AntHeader } = Layout
